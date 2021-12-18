@@ -8,7 +8,7 @@ an android OS  that will have a pokedex, and general pokemone theme
 <p>This is a FREE &nbsp; themed Android OS just a little something I made for fun this comes with GAPPS already installed as well as folders for the moving gif background I first came up with this when trying to think what else i want to do to test my android dev skills (well up and coming dev skills )</p>
 <p><strong>WHAT IT HAS&nbsp;</strong></p>
 <ol>
-    <li><strong>GApps or Google apps&nbsp;</strong></li>
+    <li><strong>Get Gapps from here https://opengapps.org/ s&nbsp;</strong></li>
     <li><strong>In my github &nbsp;are the instructions to installing this OS</strong></li>
     <li>Gif capability which is something i forked over that can be used to generate a moving background&nbsp;</li>
 </ol>
